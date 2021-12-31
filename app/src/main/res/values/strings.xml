@@ -10,4 +10,7 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="movies">Movies</string>
     <string name="tv_show">TV Show</string>
+    <string name="movies_are_always_updated">Movies are always updated</string>
+    <string name="movie_streaming">Movie Streaming</string>
+    <string name="app">App</string>
 </resources>
